@@ -27,7 +27,8 @@ def WillEstaMal():
     print('Will es lokote')
     print('Pruebas Merg')
 
-
 def compressedList(arg):
     x = [print(x) for x in arg if not arg.isdigit()]
     return x
+def reydiFunction()
+    print('Hello world!')
