@@ -8,4 +8,8 @@
 ###############################################################################
 #Comentario
 print ('hola Joas') #comentario del print
+<<<<<<< HEAD
 print ('Jugaremos muevete luz verde...') # ronald romero
+=======
+print ('hola GUapos') # gege XD
+>>>>>>> 11ec06f5b98487f36caaac30fea5e971d6483733
