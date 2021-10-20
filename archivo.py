@@ -21,3 +21,6 @@ def comentarios()
 def WillEstaMal()
     print('Will es lokote')
     print('Pruebas Merg')
+
+def nuevarama()
+    print('Pruebas Merg')
