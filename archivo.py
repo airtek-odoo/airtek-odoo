@@ -9,3 +9,4 @@
 #Comentario
 print ('hola Joas') #comentario del print
 print ('hola [CAMARADAS!]') #->Joas
+print ('wpadilla')# ->wpadilla
