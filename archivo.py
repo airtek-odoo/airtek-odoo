@@ -9,3 +9,7 @@
 #Comentario
 print ('hola Joas') #comentario del print
 print ('hola GUapos') # gege XD
+
+
+
+print ('El ser Humano es Bueno o Malo por Naturaleza?') #pregunta de media noche
