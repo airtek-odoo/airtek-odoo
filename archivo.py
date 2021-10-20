@@ -7,7 +7,7 @@
 #
 ###############################################################################
 #Comentario
-def comentarios()
+def comentarios():
     print ('hola Joas') #comentario del print
     print ('Jugaremos muevete luz verde...') # ronald romero
     print ('hola GUapos') # gege XD
@@ -18,6 +18,11 @@ def comentarios()
     print('otravez yo ' )# ->wpadilla
     print('#line17 R: EL humano es malo por naturaleza, el razonamiento y el afecto de terceros es el que lo amansa')
 
-def WillEstaMal()
+def WillEstaMal():
     print('Will es lokote')
     print('Pruebas Merg')
+
+
+def compressedList(arg):
+    x = [print(x) for x in arg if not arg.isdigit()]
+    return x
