@@ -15,3 +15,8 @@ def comentarios()
     print ('hola [CAMARADAS!]') #->Joas
     print ('wpadilla')# ->wpadilla
     print ('El ser Humano es Bueno o Malo por Naturaleza?') 
+
+
+def WillEstaMal()
+    print('Will es lokote')
+    
