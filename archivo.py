@@ -17,6 +17,6 @@ def comentarios()
     print ('El ser Humano es Bueno o Malo por Naturaleza?') 
     print('otravez yo ' )# ->wpadilla
     print('#line17 R: EL humano es malo por naturaleza, el razonamiento y el afecto de terceros es el que lo amansa')
-
+    print("otro yo ")# ->wpadilla
 def WillEstaMal()
     print('Will es lokote')
