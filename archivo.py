@@ -14,6 +14,9 @@ def comentarios()
     print ('El ser Humano es Bueno o Malo por Naturaleza?') #pregunta de media noche
     print ('hola [CAMARADAS!]') #->Joas
     print ('wpadilla')# ->wpadilla*
-    print ('El ser Humano es Bueno o Malo por Naturaleza?') 
+    print ('El ser Humano es Bueno o Malo por Naturaleza?')
+    print ('Existe la Justicia?')
+    print ('Crees en la Teoria KarmaTronica?')
+    print ('Tu Existes?') 
     *****************************************************************
 ***************************************
