@@ -13,10 +13,11 @@ def comentarios()
     print ('hola GUapos') # gege XD
     print ('El ser Humano es Bueno o Malo por Naturaleza?') #pregunta de media noche
     print ('hola [CAMARADAS!]') #->Joas
-    print ('wpadilla')# ->wpadilla
+    print ('wpadilla')# ->wpadilla*
     print ('El ser Humano es Bueno o Malo por Naturaleza?') 
 
 
 def WillEstaMal()
     print('Will es lokote')
     
+
