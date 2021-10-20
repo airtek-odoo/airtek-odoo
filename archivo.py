@@ -8,4 +8,13 @@
 ###############################################################################
 #Comentario
 print ('hola Joas') #comentario del print
-print ('hola Guapas') 
+
+print ('hola GUapos') # gege XD
+
+
+
+print ('El ser Humano es Bueno o Malo por Naturaleza?') #pregunta de media noche
+
+print ('hola [CAMARADAS!]') #->Joas
+print ('wpadilla')# ->wpadilla
+print ('El ser Humano es Bueno o Malo por Naturaleza?') 
