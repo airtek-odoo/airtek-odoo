@@ -26,6 +26,8 @@ def WillEstaMal():
 def WillEstaMal():
     print('Will es lokote')
     print('Pruebas Merg')
+def nuevarama()
+    print('Pruebas Merg')
 
 def scrollingwp()
     print("wolaaaaaaaaaa")
