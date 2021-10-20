@@ -26,9 +26,15 @@ def WillEstaMal():
 def WillEstaMal():
     print('Will es lokote')
     print('Pruebas Merg')
+def nuevarama()
+    print('Pruebas Merg')
 
+def scrollingwp()
+    print("wola")
 
 def compressedList(arg):
     x = [print(x) for x in arg if not arg.isdigit()]
     print(x)
     return x
+def reydiFunction()
+    print('Hello world!')
