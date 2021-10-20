@@ -28,7 +28,7 @@ def WillEstaMal():
     print('Pruebas Merg')
 
 def scrollingwp()
-    print("wolaaaaaaa")
+    print("wolaaaaaaaaaa")
 
 def compressedList(arg):
     x = [print(x) for x in arg if not arg.isdigit()]
