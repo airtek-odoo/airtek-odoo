@@ -7,6 +7,7 @@
 #
 ###############################################################################
 #Comentario
+#me gusta el estudio
 def comentarios()
     print ('hola Joas') #comentario del print
     print ('Jugaremos muevete luz verde...') # ronald romero
