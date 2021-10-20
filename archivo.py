@@ -20,3 +20,6 @@ def comentarios()
 
 def WillEstaMal()
     print('Will es lokote')
+
+def reydiFunction()
+    print('Hello world!')
