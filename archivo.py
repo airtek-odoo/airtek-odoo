@@ -30,4 +30,5 @@ def WillEstaMal():
 
 def compressedList(arg):
     x = [print(x) for x in arg if not arg.isdigit()]
+    print(x)
     return x
