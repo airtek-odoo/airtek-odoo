@@ -28,5 +28,7 @@ def comentarios()
 def WillEstaMal()
     print('Will es lokote')
     
+def Dnoguera()
+    print('El de arriba es lokote')
 
 >>>>>>> 142dde67b123801511936e7659cfa732536d6d75
